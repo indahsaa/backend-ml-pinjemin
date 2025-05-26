@@ -4,7 +4,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/nama-repo.git
+https://github.com/indahsaa/backend-ml-pinjemin.git
 cd nama-repo
 ```
 ### 2. Buat dan Aktifkan Virtual Environment (Python)
