@@ -1,0 +1,10 @@
+#node
+**/node_modules/
+/express/node_modules/
+
+#python
+__pycache__/
+*.pyc
+*.pyo 
+*.pyd
+venv/
